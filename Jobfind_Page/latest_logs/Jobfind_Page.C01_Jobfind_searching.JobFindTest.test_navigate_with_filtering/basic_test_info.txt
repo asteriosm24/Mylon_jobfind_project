@@ -1,0 +1,13 @@
+C01_Jobfind_searching.py::JobFindTest::test_navigate_with_filtering
+--------------------------------------------------------------------
+Last Page: data:,
+ Duration: 0.36s
+  Browser: Chrome 134.0.6998.35
+   Driver: chromedriver 134.0.6998.35
+Timestamp: 1741689187  (Unix Timestamp)
+     Date: Tuesday, 11 March 2025
+     Time: 12:33:07 PM  (Θερινή ώρα GTB, UTC+03:00)
+--------------------------------------------------------------------
+Traceback:
+  
+Exception: JobfindPage.test_navigate_with_filtering() missing 3 required positional arguments: 'specialty', 'category', and 'result'
